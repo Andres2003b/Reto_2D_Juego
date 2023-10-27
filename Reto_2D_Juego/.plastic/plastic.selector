@@ -1,0 +1,4 @@
+repository "Reto_2D_Juego@TRYOUT1@cloud"
+  path "/"
+    br "/main"
+    co "/main"
